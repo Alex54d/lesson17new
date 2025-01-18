@@ -235,7 +235,7 @@ body {
 	position: relative;
 }
 .menu__num::after {
-	content: "0";
+	content: "";
 	font-size: 1px;
 	width: 16px;
 	height: 16px;
